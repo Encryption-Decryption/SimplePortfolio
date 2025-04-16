@@ -79,7 +79,7 @@
         align-items: center;
         
         /* Box Model */
-        padding: .5rem;
+        padding: .5rem .8rem;
         
         /* Visual Styling */
         background-color: #212121;
